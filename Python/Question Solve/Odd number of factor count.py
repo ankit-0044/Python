@@ -16,4 +16,4 @@ def factorOddCount(n,m):
         if (fact%2 == 1):
             ans += 1
     return ans
-print(factorOddCount(5,100))
+print(factorOddCount(22,27))

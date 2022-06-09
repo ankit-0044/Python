@@ -38,7 +38,7 @@ def countPermutation(st) :
 	return factorial(length) // fact
 
 # Driver code
-str = "TANdAV"
+str = "aabbcc"
 st = str.lower()
 print (countPermutation(st))
 
